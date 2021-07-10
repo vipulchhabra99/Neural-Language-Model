@@ -1,6 +1,4 @@
- **Introduction to NLP**
- **ASSIGNMENT 2**
- **Roll Number - 2019121001**
+
 
 **Prerequisites**
 Make sure python >= 3.6 is installed
